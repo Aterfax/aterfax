@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [DCS-World-Dedicated-Server-Docker](https://github.com/Aterfax/DCS-World-Dedicated-Server-Docker)
 
-- 📫 How to reach me **Discord or on Github**
+- 📫 How to reach me: **Discord or on Github**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
