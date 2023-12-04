@@ -12,6 +12,7 @@
 <a href="https://www.youtube.com/c/aterfax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aterfax" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/128268691216400386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aterfax" height="30" width="40" /></a>
 <a href="https://aterfax.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://aterfax.github.io/feed.xml" height="30" width="40" /></a>
+<a href="https://forum.dcs.world/profile/147358-aterfax/" target="blank"><img align="center" src="https://www.digitalcombatsimulator.com/upload/userfiles/c15/ll0dwxdsi5z7c9p1sm3xzg24vb33jra0/DCS_Icon_Red.png" alt="https://forum.dcs.world/profile/147358-aterfax/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
